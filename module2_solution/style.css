@@ -23,8 +23,9 @@ p {
   background-color: rgb(202, 202, 202);
   border: 1px solid black;
   padding: 40px 10px 10px 10px;
-  height: 155px;
+  height: 160px;
   margin: 10px;
+  overflow: hidden;
 }
 
 #title1 {
